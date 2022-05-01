@@ -8,9 +8,9 @@ My previous work experience consists mainly of working in IT. Started by managin
 
 # Going forward
 
-As I see myself as QA in the future.I hope this course will help me with missing skills that I lacked in previous testing jobs and by developing these skills i can find my next workplace as manual QA job is not so attractive anymore.
+Currently I see myself as QA in the future. I hope this course will help me with missing skills that I lacked in previous testing jobs and by developing these skills i can find my next workplace as manual QA job is not so attractive anymore.
 
-Here's a link to [Lorem Ipsum page](https://www.lipsum.com)
+Here's a link to [Lorem Ipsum page](https://www.lipsum.com).
 
 Also check the cool Lada below. :)
 
