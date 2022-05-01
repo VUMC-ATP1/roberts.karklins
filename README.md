@@ -12,6 +12,6 @@ As I see myself as QA in the future.I hope this course will help me with missing
 
 Here's a link to [Lorem Ipsum page](https://www.lipsum.com)
 
-Also check the cool Lada below :)
+Also check the cool Lada below. :)
 
 ![](img/lada.jpg)
