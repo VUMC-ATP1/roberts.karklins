@@ -1,0 +1,57 @@
+* {
+    max-width: 100%;
+    margin: auto;
+}
+
+div {
+    border-radius: 5px;
+}
+
+#header {
+    height: 30px;
+    width: 100%;
+    background-color: chartreuse;
+    position: fixed;
+    z-index: 1;
+}
+
+#footer {
+    height: 40px;
+    width: 100%;
+    background-color: hotpink;
+    position: relative;
+}
+
+.left-side {
+    height: 1010px;
+    width: 30px;
+    background-color: tomato;
+    float: left;
+    position: inherit;
+}
+
+.content {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 50px;
+    width: 75%;
+    height: 1000px;
+}
+
+.right-side {
+    height: 1010px;
+    width: 30px;
+    background-color: tomato;
+    float: right;
+    position: inherit;
+}
+
+p,
+li {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.paragraphStyle {
+    font-size: 25px;
+    font-weight: bold;
+}
