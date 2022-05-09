@@ -1,0 +1,80 @@
+* {
+    max-width: 100%;
+    margin: auto;
+}
+
+div {
+    border-radius: 5px;
+}
+
+.left {
+    float: left;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.right {
+    float: right;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.heading1 {
+    float: left;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.heading2 {
+    float: right;
+    font-family: 'Titillium Web', sans-serif;
+    height: 50px;
+    width: 50px;
+}
+
+#header {
+    height: 30px;
+    width: 100%;
+    z-index: 1;
+}
+
+#footer {
+    height: 40px;
+    width: 100%;
+    position: relative;
+}
+
+.left-side {
+    height: 1010px;
+    width: 30px;
+    float: left;
+    position: inherit;
+}
+
+.content {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 50px;
+    width: 75%;
+    height: 1000px;
+}
+
+.right-side {
+    height: 1010px;
+    width: 30px;
+    float: right;
+    position: inherit;
+}
+
+p,
+li {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.paragraphStyle {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.footer {
+    float: center;
+    font-family: 'Titillium Web', sans-serif;
+    color: lightslategray;
+}
