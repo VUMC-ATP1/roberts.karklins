@@ -27,14 +27,10 @@ public class FirstClass {
         }
         char nigeriaCurrency = '₦';
         System.out.println(country + " uses " + nigeriaCurrency + " (naira) currency.");
-
-// 4
-
+        // 4
         System.out.println(nigeriaoldCapital + " was the national capital of " + country + " until December 1991 before the government decided to move their capital to " + nigeriaCapital + " in the centre of the country");
         System.out.printf("%s was the national capital of Nigeria until December 1991. \n ", nigeriaoldCapital);
-
         // 5
-
         int a = 47+3;
         int b = 14;
         int c = a + b;
@@ -48,9 +44,5 @@ public class FirstClass {
 
         int f = (c / 5) * 4;
         System.out.println("Another one " + f );
-
-
-
     }
     }
-
